@@ -1,9 +1,17 @@
 #content_1{
 	font-weight: initial;
 	font-size: 10px;
+	color: brown;
 }
 
 #content_2{
 	font-weight: bold;
 	font-size: 20px;
+	color: blueviolet;
+}
+
+#div1 samp p {
+	font-weight: bold;
+	font-size: 50px;
+	color:darkblue;
 }
